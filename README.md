@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesmartisen" alt="thesmartisen" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft AI School by Simplon, focusing on machine learning, data processing, and model deployment, alongside Full Stack Web/Mobile Development to create innovative, human-centered solutions. I am also seeking an apprenticeship starting in February 2025 to apply my skills in a real-world environment.**
+🌱 I’m currently learning **Microsoft AI School by Simplon, focusing on machine learning, data processing, and model deployment, alongside Full Stack Web/Mobile Development to create innovative, human-centered solutions. I am also seeking an apprenticeship starting in February 2025 to apply my skills in a real-world environment.**
 
-- 💬 Ask me about **Web/Mobile Development, AI solutions, Technical Support, and Network Administration**
+💬 Ask me about **Web/Mobile Development, AI solutions, Technical Support, and Network Administration**
 
-- 📫 How to reach me **hp5454@hotmail.fr | +33 6 34 72 38 31 | Based in France**
+📫 How to reach me **hp5454@hotmail.fr | +33 6 34 72 38 31 | Based in France**
 
-- 📄 Know about my experiences [Over 8 years in IT development, including AI, Web, and Mobile applications. Previous roles include IT Developer at Afludia, Web Development intern at Covivo, and Programmer Analyst intern at Meurthe & Moselle Habitat.](Over 8 years in IT development, including AI, Web, and Mobile applications. Previous roles include IT Developer at Afludia, Web Development intern at Covivo, and Programmer Analyst intern at Meurthe & Moselle Habitat.)
+📄 Know about my experiences **Over 8 years in IT development, including AI, Web, and Mobile applications. Previous roles include IT Developer at Afludia, Web Development intern at Covivo, and Programmer Analyst intern at Meurthe & Moselle Habitat.**
 
-- ⚡ Fun fact **I’m passionate about trail running, martial arts (Bujinkan), and cryptocurrency trading.**
+⚡ Fun fact **I’m passionate about trail running, martial arts (Bujinkan), and cryptocurrency trading.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
